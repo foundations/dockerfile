@@ -1,9 +1,9 @@
 ## shadowsocks
 
-[![](https://images.microbadger.com/badges/image/mritd/shadowsocks.svg)](https://microbadger.com/images/mritd/shadowsocks "Get your own image badge on microbadger.com") [![](https://images.microbadger.com/badges/version/mritd/shadowsocks.svg)](https://microbadger.com/images/mritd/shadowsocks "Get your own version badge on microbadger.com")
+![](https://img.shields.io/docker/stars/mritd/shadowsocks.svg) ![](https://img.shields.io/docker/pulls/mritd/shadowsocks.svg) ![](https://img.shields.io/microbadger/image-size/mritd/shadowsocks.svg) ![](https://img.shields.io/microbadger/layers/mritd/shadowsocks.svg)
 
-- **shadowsocks-libev 版本: 3.2.1**
-- **kcptun 版本: 20181114**
+- **shadowsocks-libev 版本: 3.2.4**
+- **kcptun 版本: 20190109**
 
 ### 打开姿势
 
@@ -273,3 +273,23 @@ update shadowsocks to v3.2.1
 - 2018-11-15 update kcptun
 
 update kcptun to v20181114
+
+- 2018-12-14 update shadowsocks
+
+update shadowsocks to 3.2.3
+
+- 2018-12-26 update kcptun
+
+update kcptun to v20181224
+
+- 2019-01-10 update kcptun
+
+update kcptun to v20190109
+
+- 2019-01-23 add v2ray-plugin
+
+add v2ray-plugin support
+
+- 2019-02-26 update to 3.2.4
+
+update shadowsocks to 3.2.4
